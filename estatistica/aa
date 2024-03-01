@@ -1,0 +1,17 @@
+ele ativou o admin, mudou lhe a pass, removeu o user normal do grupo de admin e depois logou no admin e criou um user novo normal
+
+programs
+add and remove programs
+system componentes
+install apps
+
+http// (e colocar ip)
+control panel, programs, turn windows features on, internet information services,(nao usar ftp.)
+ok instalar
+
+IIS abrir
+inetpub
+wwwroot
+novo tec01
+edit
+default document(add tec03-htm)
